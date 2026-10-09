@@ -1,87 +1,62 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Excel-based sales pipeline and lead management portfolio project.">
-  <title>Sales Pipeline & Lead Management | Portfolio Project</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="An Excel-based lead pipeline simulation with 50 fictional leads, follow-up visibility, pipeline KPIs, funnel analysis and practical sales conversation resources.">
+  <title>Sales CRM &amp; Lead Funnel | Portfolio Project</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="#home">SP<span>.</span></a>
-    <nav aria-label="Main navigation">
-      <a href="#overview">Overview</a>
-      <a href="#features">Features</a>
-      <a href="#process">Process</a>
-    </nav>
+    <div class="container nav">
+      <div class="brand">PRACTICAL BUSINESS PORTFOLIO</div>
+      <nav class="navlinks" aria-label="Primary">
+        <a href="#overview">Overview</a><a href="#deliverables">Deliverables</a><a href="#skills">Skills</a><a href="#downloads">Downloads</a>
+      </nav>
+    </div>
   </header>
-
   <main>
-    <section class="hero" id="home">
-      <p class="eyebrow">PORTFOLIO PROJECT · SALES OPERATIONS</p>
-      <h1>Sales Pipeline <span>&amp;</span><br>Lead Management System</h1>
-      <p class="hero-copy">An Excel-based demo to organise leads, track follow-ups, monitor sales opportunities, and summarise pipeline performance in one place.</p>
-      <div class="hero-actions">
-        <a class="button primary" href="Sales_Pipeline_Lead_Management.xlsx" download>Download Excel Workbook ↗</a>
-        <a class="button secondary" href="README.md">View Project README</a>
-      </div>
-      <div class="metrics" aria-label="Project highlights">
-        <div><strong>20</strong><span>Sample leads</span></div>
-        <div><strong>6</strong><span>Pipeline KPIs</span></div>
-        <div><strong>Excel</strong><span>Built with</span></div>
+    <section class="hero" id="overview">
+      <div class="container">
+        <span class="eyebrow">Sales &amp; Business Development Portfolio</span>
+        <h1>Sales CRM &amp; Lead Funnel</h1>
+        <p>An Excel-based lead pipeline simulation with 50 fictional leads, follow-up visibility, pipeline KPIs, funnel analysis and practical sales conversation resources.</p>
+        <div class="actions">
+          <a class="button" href="Sales_Pipeline_Lead_Management.xlsx">↓ Download Excel workbook</a>
+          <a class="button ghost" href="Project_Case_Study.md">Read the case study</a>
+        </div>
       </div>
     </section>
-
-    <section class="section" id="overview">
-      <div class="section-heading">
-        <p class="eyebrow">01 / OVERVIEW</p>
-        <h2>From scattered enquiries to a clearer pipeline.</h2>
-      </div>
-      <p class="section-copy">This project demonstrates how a small sales team could use a structured lead tracker and a dashboard to keep enquiry details, lead status, follow-up dates, and opportunity values organised. The workbook includes a dashboard, lead tracker, and status summary.</p>
-      <div class="notice"><strong>Data note</strong><span>All lead records and metrics are fictional sample data for demonstration. They are not real customer information or actual business results.</span></div>
-    </section>
-
-    <section class="section" id="features">
-      <div class="section-heading">
-        <p class="eyebrow">02 / KEY FEATURES</p>
-        <h2>Designed to make follow-ups visible.</h2>
-      </div>
-      <div class="feature-grid">
-        <article class="feature-card"><span class="number">01</span><h3>Lead tracker</h3><p>Organised lead details, source, status, owner, estimated value, and next follow-up date.</p></article>
-        <article class="feature-card"><span class="number">02</span><h3>Performance dashboard</h3><p>At-a-glance indicators for lead volume, qualification, overdue follow-ups, and pipeline value.</p></article>
-        <article class="feature-card"><span class="number">03</span><h3>Status summary</h3><p>A breakdown of leads across pipeline stages to make progress easier to review.</p></article>
-        <article class="feature-card"><span class="number">04</span><h3>Follow-up visibility</h3><p>Dates and statuses help users spot leads that may need timely attention.</p></article>
-      </div>
-    </section>
-
-    <section class="section process-section" id="process">
-      <div class="section-heading">
-        <p class="eyebrow">03 / WORKFLOW</p>
-        <h2>A simple, repeatable sales workflow.</h2>
-      </div>
-      <div class="steps">
-        <div><span>1</span><p><strong>Capture</strong><br>Record a new lead and enquiry details.</p></div>
-        <div><span>2</span><p><strong>Qualify</strong><br>Update the lead's stage and opportunity value.</p></div>
-        <div><span>3</span><p><strong>Follow up</strong><br>Set the next action date and keep records updated.</p></div>
-        <div><span>4</span><p><strong>Review</strong><br>Use dashboard summaries to review pipeline progress.</p></div>
-      </div>
-    </section>
-
-    <section class="closing">
-      <p class="eyebrow">EXPLORE THE PROJECT</p>
-      <h2>See the workbook and project notes.</h2>
-      <p>Open the Excel file in desktop Microsoft Excel for the best experience with formulas, dashboard, and charts.</p>
-      <div class="hero-actions">
-        <a class="button primary" href="Sales_Pipeline_Lead_Management.xlsx" download>Download Workbook ↗</a>
-        <a class="button secondary" href="README.md">Read README</a>
-      </div>
-    </section>
+    <div class="container">
+      <div class="metrics" aria-label="Project metrics"><div class="metric"><strong>50</strong><span>fictional leads</span></div><div class="metric"><strong>7</strong><span>pipeline stages</span></div><div class="metric"><strong>Formula-driven</strong><span>overdue flags</span></div><div class="metric"><strong>2</strong><span>sales playbooks</span></div></div>
+      <section>
+        <div class="section-head">
+          <div><h2>Business problem and approach</h2><p class="lead">A practical, interview-discussable workflow rather than a decorative dashboard.</p></div>
+        </div>
+        <div class="grid">
+          <article class="card"><span class="pill">The problem</span><h3>What this addresses</h3><p>Sales teams can lose opportunities when lead qualification notes, next steps and follow-up dates are scattered across messages or individual sheets.</p></article>
+          <article class="card"><span class="pill">The build</span><h3>What is included</h3><p>This workbook centralises lead details, current stage, estimated value, ownership and next follow-up date, then summarises the pipeline in a dashboard.</p></article>
+          <article class="card"><span class="pill">Data integrity</span><h3>How to interpret it</h3><p>Sample records are synthetic. Formulas support the workflow, and the workbook includes a usage guide and documented limitations.</p></article>
+        </div>
+      </section>
+      <section id="deliverables">
+        <div class="section-head"><div><h2>Project deliverables</h2><p class="lead">Open the workbook for the full tracker and dashboard, or inspect the supporting artifacts below.</p></div></div>
+        <div class="grid"><div class="card"><h3>Sales_Pipeline_Lead_Management.xlsx</h3><p>Dashboard, Lead Tracker, Funnel Analysis, Call Playbook and usage guide.</p></div><div class="card"><h3>CRM_Import_Template.csv</h3><p>50 sample rows for mapping fields into a CRM account if your plan supports import.</p></div><div class="card"><h3>Inbound_Outbound_Call_Scripts.md</h3><p>Inbound/outbound openers, discovery questions, close and follow-up email.</p></div></div>
+      </section>
+      <section id="skills">
+        <div class="section-head"><div><h2>Skills demonstrated</h2><p class="lead">Skills you can explain in an interview by walking through the workbook, formulas and project decisions.</p></div></div>
+        <div class="skills"><span>Lead qualification</span><span>Sales communication</span><span>Follow-up management</span><span>Excel formulas</span><span>CRM workflow concepts</span><span>Funnel reporting</span><span>Objection handling</span></div>
+      </section>
+      <section id="downloads">
+        <div class="section-head"><div><h2>Files and documentation</h2><p class="lead">The workbook is the main artifact. The CSVs and markdown files make the project easy to inspect and adapt.</p></div></div>
+        <div class="download-list"><a class="download" href="Sales_Pipeline_Lead_Management.xlsx" target="_blank" rel="noopener"><span class="fileicon">XLSX</span><span><strong>Sales_Pipeline_Lead_Management.xlsx</strong><small>Main Excel workbook</small></span></a><a class="download" href="CRM_Import_Template.csv" target="_blank" rel="noopener"><span class="fileicon">CSV</span><span><strong>CRM_Import_Template.csv</strong><small>CRM import practice CSV</small></span></a><a class="download" href="Inbound_Outbound_Call_Scripts.md" target="_blank" rel="noopener"><span class="fileicon">MD</span><span><strong>Inbound_Outbound_Call_Scripts.md</strong><small>Call scripts</small></span></a><a class="download" href="Objection_Handling_Playbook.md" target="_blank" rel="noopener"><span class="fileicon">MD</span><span><strong>Objection_Handling_Playbook.md</strong><small>Objection playbook</small></span></a><a class="download" href="Project_Case_Study.md" target="_blank" rel="noopener"><span class="fileicon">MD</span><span><strong>Project_Case_Study.md</strong><small>Project case study</small></span></a><a class="download" href="Portfolio_Entry.md" target="_blank" rel="noopener"><span class="fileicon">MD</span><span><strong>Portfolio_Entry.md</strong><small>Resume-ready project description</small></span></a><a class="download" href="README.md" target="_blank" rel="noopener"><span class="fileicon">MD</span><span><strong>README.md</strong><small>README</small></span></a></div>
+      </section>
+      <section>
+        <div class="note"><strong>Sample-data / scope note.</strong> All company names, contacts, deal values, stages and notes are fictional. This is an Excel-based CRM practice simulation, not a live HubSpot/Zoho integration or evidence of actual sales outcomes.</div>
+      </section>
+    </div>
   </main>
-
-  <footer>
-    <span>Sales Pipeline &amp; Lead Management System</span>
-    <span>Excel portfolio demonstration · Synthetic data</span>
-  </footer>
+  <footer><div class="container"><p><strong>Sales CRM &amp; Lead Funnel</strong> · Portfolio practice project · Synthetic data · No live third-party integration claimed.</p></div></footer>
 </body>
 </html>

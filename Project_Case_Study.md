@@ -1,51 +1,27 @@
-# Sales Pipeline & Lead Management System — Case Study
+# Project Case Study — Sales CRM & Lead Funnel
 
-## Project overview
-This project demonstrates a simple sales pipeline and lead management workflow using Microsoft Excel. It is intended as a portfolio project for entry-level sales operations, inside sales, business development, and administrative roles.
+## Business problem
+A small sales team can lose opportunities when lead stages, qualification notes and next follow-ups are scattered across messages or spreadsheets. This practice project demonstrates a structured way to organise a lead pipeline and focus follow-up effort.
 
-## Problem statement
-When enquiries, next actions, deal stages, and opportunity values are recorded inconsistently, it can be difficult to see which leads need follow-up and how opportunities are progressing. This workbook demonstrates a structured way to bring those details into one tracker.
+## Solution built
+- A tracker with 50 synthetic leads and business-oriented fields: source, stage, priority, estimated deal value, owner, last contact and next follow-up.
+- Formula-driven overdue flags that compare the next follow-up date with `TODAY()`, while marking Won/Lost leads as closed.
+- A dashboard showing total and open leads, overdue follow-ups, wins, pipeline value, won value, meetings, proposals and stage distribution.
+- Funnel analysis with current stage counts and a clearly labelled simplified cumulative-reach estimate.
+- Inbound/outbound call scripts, a follow-up email template and a ten-point ethical objection playbook.
+- CSV template for practising field mapping into a CRM.
 
-## Objectives
-- Maintain a consistent list of leads and their current stage.
-- Record follow-up dates so overdue actions can be identified.
-- Summarise lead stages and sales opportunity values.
-- Display useful pipeline indicators in a dashboard.
+## Core metrics
+- Open pipeline value = sum of estimated deal value for leads that are neither Won nor Lost.
+- Won value = sum of estimated value for Won leads.
+- Overdue follow-up rate = overdue open leads divided by all leads in the sample.
+- Stage counts = count of leads whose current stage matches each stage.
 
-## Tools
-- Microsoft Excel
-- GitHub for version control and public project presentation
-- GitHub Pages for the static portfolio webpage
-
-## Workbook components
-1. **Dashboard** — headline indicators for lead volume, qualified-or-later leads, overdue follow-ups, open pipeline value, won deal value, and lead-to-qualified rate.
-2. **Lead Tracker** — sample lead records with contact/enquiry context, source, status, owner, value, and next follow-up fields.
-3. **Status Summary** — a count of leads by pipeline stage, with a chart for quick review.
-4. **Read Me** — usage notes and the important data disclaimer.
-
-## Example questions the workbook is designed to help answer
-- How many leads are currently recorded?
-- How many leads have reached a qualified-or-later stage?
-- Which follow-ups are overdue?
-- What is the current value of open opportunities?
-- What value of deals is marked as won?
-- How are leads distributed across the pipeline stages?
+## Tools and skills demonstrated
+Excel formulas (`COUNTIF`, `COUNTIFS`, `SUMIFS`, `IF`, `IFERROR`), dropdown validation, conditional formatting, dashboard charts, sales communication, lead qualification, follow-up management and ethical objection handling.
 
 ## Data and limitations
-All lead names, records, and values in this workbook are fictional sample data created for demonstration. They are not actual company data or verified business outcomes. The workbook is a standalone Excel demonstration and is not connected to HubSpot or another live CRM.
+All companies, contacts, deal amounts, stages, and notes are fictional. It is an Excel-based CRM practice simulation—not a live HubSpot/Zoho integration and not evidence of actual sales performance. Cumulative funnel reach is estimated from current stage ordering because no stage-history timestamps are included.
 
-## How to use
-1. Download `Sales_Pipeline_Lead_Management.xlsx` from this repository.
-2. Open it in desktop Microsoft Excel for the intended formula and chart experience.
-3. Review the Dashboard, Lead Tracker, and Status Summary sheets.
-4. Try editing a sample lead's status, value, or follow-up date and observe how formula-based summaries update.
-5. Do not use the sample records as real customer data.
-
-## Potential future improvements
-- Import the sample records into a CRM such as HubSpot after account setup and field mapping.
-- Add data validation dropdowns for stages and lead sources.
-- Add filters for lead owner, source, and status.
-- Add a monthly trend view once time-series data is available.
-
-## Portfolio integrity note
-This project is an independent demonstration using synthetic data. It should not be described as having been deployed for a real business, connected to a live CRM, or producing real company results.
+## Possible next iteration
+Import the practice CSV into a free CRM account if an eligible plan is available; compare the import fields; record stage-change history and date stamps; then replace the simplified funnel estimate with true stage conversion metrics.

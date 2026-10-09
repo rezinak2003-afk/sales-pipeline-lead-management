@@ -1,26 +1,12 @@
-# Portfolio Entry — Sales Pipeline & Lead Management System
+# Resume / Portfolio Entry — Sales CRM & Lead Funnel
 
-**Project type:** Sales operations / business development demonstration  
-**Tools:** Microsoft Excel, GitHub, GitHub Pages  
-**Data:** Fictional sample records
+**Sales CRM & Lead Funnel | Excel-based practice project**
 
-## Summary
-Built an Excel-based sales pipeline and lead management demonstration to organise sample leads, track follow-up dates, monitor pipeline stages, and summarise opportunity values through a dashboard.
+- Built an Excel lead tracker for 50 fictional business leads, including stage, priority, lead source, deal estimate, owner and next-follow-up date.
+- Created a formula-driven dashboard for pipeline value, wins, open leads, stage counts and overdue follow-ups.
+- Developed inbound/outbound call scripts, a follow-up email, a ten-point objection-handling playbook and a CRM import CSV template.
+- Applied dropdown validation and conditional formatting to support consistent updates and highlight overdue follow-ups.
 
-## Features
-- Structured lead tracker with status, source, opportunity value, and follow-up fields.
-- Dashboard with key sales pipeline indicators.
-- Status summary and chart to review distribution across pipeline stages.
-- Public portfolio webpage linking to the workbook and project information.
+**Skills demonstrated:** Lead tracking, sales communication, objection handling, Excel formulas, CRM workflow concepts, reporting and documentation.
 
-## Resume-ready bullets
-- Created an Excel-based lead management tracker to organise enquiries, sales stages, opportunity values, and follow-up dates.
-- Built a dashboard and status summary to demonstrate pipeline monitoring and follow-up visibility.
-- Published the project through GitHub and GitHub Pages using fictional sample data.
-
-## Links
-- Live portfolio: https://rezinak2003-afk.github.io/sales-pipeline-lead-management/
-- GitHub repository: https://github.com/rezinak2003-afk/sales-pipeline-lead-management
-
-## Important note
-All records and figures are fictional examples for demonstration. The workbook is not connected to a live CRM, and the listed metrics are not real business outcomes.
+**Important:** This is a synthetic-data practice project; it is not a live CRM integration or real sales-results claim.

@@ -1,0 +1,51 @@
+﻿Lead ID,Company,Contact Name,Industry,Lead Source,Owner,Deal Stage,Priority,Estimated Deal Value INR,Next Follow-up Date,Notes
+LEAD-001,Amberline Office Supplies,Sample Contact 01,Retail,Website enquiry,Asha,New Lead,High,18000,2026-10-04,Needs initial qualification call.
+LEAD-002,BluePeak Learning,Sample Contact 02,Education,Referral,Kabir,New Lead,High,32000,2026-10-05,Needs initial qualification call.
+LEAD-003,CedarBridge Logistics,Sample Contact 03,Logistics,LinkedIn,Nina,New Lead,Low,45000,2026-10-06,Needs initial qualification call.
+LEAD-004,Dawnstar Packaging,Sample Contact 04,Hospitality,Trade directory,Asha,New Lead,High,26000,2026-10-07,Needs initial qualification call.
+LEAD-005,Eastbay Furnishings,Sample Contact 05,Healthcare,Inbound call,Kabir,New Lead,Medium,58000,2026-10-08,Needs initial qualification call.
+LEAD-006,Foxglove Retail Systems,Sample Contact 06,Professional services,Website enquiry,Nina,New Lead,High,72000,2026-10-09,Needs initial qualification call.
+LEAD-007,GreenArc Services,Sample Contact 07,Manufacturing,Referral,Asha,New Lead,High,39000,2026-10-10,Needs initial qualification call.
+LEAD-008,Harborlight Foods,Sample Contact 08,E-commerce,LinkedIn,Kabir,New Lead,Medium,85000,2026-10-11,Needs initial qualification call.
+LEAD-009,IndigoWorks Studio,Sample Contact 09,Retail,Trade directory,Nina,New Lead,High,54000,2026-10-12,Needs initial qualification call.
+LEAD-010,Juniper & Co Trading,Sample Contact 10,Education,Inbound call,Asha,New Lead,High,28000,2026-10-13,Needs initial qualification call.
+LEAD-011,KitePath Mobility,Sample Contact 11,Logistics,Website enquiry,Kabir,Contacted,Medium,18000,2026-10-14,Initial contact completed; confirm needs and timing.
+LEAD-012,Lakeview Diagnostics,Sample Contact 12,Hospitality,Referral,Nina,Contacted,High,32000,2026-10-04,Initial contact completed; confirm needs and timing.
+LEAD-013,MapleRoot Distributors,Sample Contact 13,Healthcare,LinkedIn,Asha,Contacted,High,45000,2026-10-05,Initial contact completed; confirm needs and timing.
+LEAD-014,NorthGate Fitness,Sample Contact 14,Professional services,Trade directory,Kabir,Contacted,Medium,26000,2026-10-06,Initial contact completed; confirm needs and timing.
+LEAD-015,OrbitEdge Software,Sample Contact 15,Manufacturing,Inbound call,Nina,Contacted,High,58000,2026-10-07,Initial contact completed; confirm needs and timing.
+LEAD-016,PaperTrail Business Services,Sample Contact 16,E-commerce,Website enquiry,Asha,Contacted,High,72000,2026-10-08,Initial contact completed; confirm needs and timing.
+LEAD-017,Quartzline Electronics,Sample Contact 17,Retail,Referral,Kabir,Contacted,Medium,39000,2026-10-09,Initial contact completed; confirm needs and timing.
+LEAD-018,RedStone Hospitality,Sample Contact 18,Education,LinkedIn,Nina,Contacted,High,85000,2026-10-10,Initial contact completed; confirm needs and timing.
+LEAD-019,SilverFern Textiles,Sample Contact 19,Logistics,Trade directory,Asha,Contacted,High,54000,2026-10-11,Initial contact completed; confirm needs and timing.
+LEAD-020,Timberlane Interiors,Sample Contact 20,Hospitality,Inbound call,Kabir,Contacted,Medium,28000,2026-10-12,Initial contact completed; confirm needs and timing.
+LEAD-021,UrbanNest Retail,Sample Contact 21,Healthcare,Website enquiry,Nina,Contacted,Low,18000,2026-10-13,Initial contact completed; confirm needs and timing.
+LEAD-022,VistaBloom Events,Sample Contact 22,Professional services,Referral,Asha,Qualified,High,32000,2026-10-14,Fit confirmed; next step is a discovery meeting.
+LEAD-023,Westmark Components,Sample Contact 23,Manufacturing,LinkedIn,Kabir,Qualified,High,45000,2026-10-04,Fit confirmed; next step is a discovery meeting.
+LEAD-024,YellowBrick Education,Sample Contact 24,E-commerce,Trade directory,Nina,Qualified,Low,26000,2026-10-05,Fit confirmed; next step is a discovery meeting.
+LEAD-025,ZenithRoute Couriers,Sample Contact 25,Retail,Inbound call,Asha,Qualified,High,58000,2026-10-06,Fit confirmed; next step is a discovery meeting.
+LEAD-026,Alpine Desk Solutions,Sample Contact 26,Education,Website enquiry,Kabir,Qualified,Medium,72000,2026-10-07,Fit confirmed; next step is a discovery meeting.
+LEAD-027,BrightMint Wellness,Sample Contact 27,Logistics,Referral,Nina,Qualified,High,39000,2026-10-08,Fit confirmed; next step is a discovery meeting.
+LEAD-028,CobaltCart Commerce,Sample Contact 28,Hospitality,LinkedIn,Asha,Qualified,High,85000,2026-10-09,Fit confirmed; next step is a discovery meeting.
+LEAD-029,Driftwood Media,Sample Contact 29,Healthcare,Trade directory,Kabir,Qualified,Medium,54000,2026-10-10,Fit confirmed; next step is a discovery meeting.
+LEAD-030,Everlane Industrial,Sample Contact 30,Professional services,Inbound call,Nina,Qualified,Low,28000,2026-10-11,Fit confirmed; next step is a discovery meeting.
+LEAD-031,Fieldstone Safety,Sample Contact 31,Manufacturing,Website enquiry,Asha,Meeting Booked,High,18000,2026-10-12,Prepare tailored questions and demo outline.
+LEAD-032,GoldenHour Kitchens,Sample Contact 32,E-commerce,Referral,Kabir,Meeting Booked,High,32000,2026-10-13,Prepare tailored questions and demo outline.
+LEAD-033,Highland Stationery,Sample Contact 33,Retail,LinkedIn,Nina,Meeting Booked,Low,45000,2026-10-14,Prepare tailored questions and demo outline.
+LEAD-034,IvoryLane Apparel,Sample Contact 34,Education,Trade directory,Asha,Meeting Booked,High,26000,2026-10-04,Prepare tailored questions and demo outline.
+LEAD-035,JadeRiver Consulting,Sample Contact 35,Logistics,Inbound call,Kabir,Meeting Booked,Medium,58000,2026-10-05,Prepare tailored questions and demo outline.
+LEAD-036,Keyline Medical Supplies,Sample Contact 36,Hospitality,Website enquiry,Nina,Meeting Booked,Low,72000,2026-10-06,Prepare tailored questions and demo outline.
+LEAD-037,LumenLeaf Organics,Sample Contact 37,Healthcare,Referral,Asha,Meeting Booked,High,39000,2026-10-07,Prepare tailored questions and demo outline.
+LEAD-038,MeadowRun Housing,Sample Contact 38,Professional services,LinkedIn,Kabir,Proposal Sent,High,85000,2026-10-08,Follow up on proposal questions and decision date.
+LEAD-039,NovaForge Tools,Sample Contact 39,Manufacturing,Trade directory,Nina,Proposal Sent,Low,54000,2026-10-09,Follow up on proposal questions and decision date.
+LEAD-040,Oakwell Facilities,Sample Contact 40,E-commerce,Inbound call,Asha,Proposal Sent,High,28000,2026-10-10,Follow up on proposal questions and decision date.
+LEAD-041,Parkside Printworks,Sample Contact 41,Retail,Website enquiry,Kabir,Proposal Sent,Medium,18000,2026-10-11,Follow up on proposal questions and decision date.
+LEAD-042,QuickHarbor Freight,Sample Contact 42,Education,Referral,Nina,Proposal Sent,Low,32000,2026-10-12,Follow up on proposal questions and decision date.
+LEAD-043,Riverbend Packaging,Sample Contact 43,Logistics,LinkedIn,Asha,Proposal Sent,High,45000,2026-10-13,Follow up on proposal questions and decision date.
+LEAD-044,Skyward Training,Sample Contact 44,Hospitality,Trade directory,Kabir,Won,Medium,26000,2026-10-14,Deal marked won in sample dataset.
+LEAD-045,TopazPoint Finance,Sample Contact 45,Healthcare,Inbound call,Nina,Won,High,58000,2026-10-04,Deal marked won in sample dataset.
+LEAD-046,UnionVale Supplies,Sample Contact 46,Professional services,Website enquiry,Asha,Won,High,72000,2026-10-05,Deal marked won in sample dataset.
+LEAD-047,ValleyGrid Solar,Sample Contact 47,Manufacturing,Referral,Kabir,Won,Medium,39000,2026-10-06,Deal marked won in sample dataset.
+LEAD-048,WillowBay Travel,Sample Contact 48,E-commerce,LinkedIn,Nina,Lost,Low,85000,2026-10-07,Closed lost; retain reason for learning.
+LEAD-049,XpressPoint Services,Sample Contact 49,Retail,Trade directory,Asha,Lost,High,54000,2026-10-08,Closed lost; retain reason for learning.
+LEAD-050,YonderPeak Sports,Sample Contact 50,Education,Inbound call,Kabir,Lost,Medium,28000,2026-10-09,Closed lost; retain reason for learning.
